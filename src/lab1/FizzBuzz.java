@@ -39,4 +39,7 @@ class FizzBuzz {
         i += 1;
         return i;
     }
+
+    public static void doFizzBuzz(int i) {
+    }
 }
